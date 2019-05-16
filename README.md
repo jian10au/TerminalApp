@@ -5,6 +5,7 @@ A tool to help any writer, running in the Bash command line written in Ruby.
 ### Brian Jian Zhao, Christopher Staudinger<br/>
 
 #### Link
+https://github.com/jian10au/TerminalApp
 https://github.com/chrisstaudinger/articleChecker
 
 ## Purpose 
